@@ -1,3 +1,4 @@
+#2753번 (수정필요)
 input_number = float(input())
 
 print(f"input_number/4 is {input_number / 4}")

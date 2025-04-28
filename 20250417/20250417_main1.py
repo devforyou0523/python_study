@@ -1,8 +1,8 @@
 #2884번
 input_time = input()
 input_hour, input_minute = map(int, input_time.split(" "))
-edited_hour = 0;
-edited_minute = 0;
+edited_hour = 0
+edited_minute = 0
 
 if (input_minute - 45 == 0):
     print (f"{input_hour} 0")

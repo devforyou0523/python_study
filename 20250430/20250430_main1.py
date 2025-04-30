@@ -1,4 +1,4 @@
-#10813번
+#10813번(수정필요)
 basket_number, input_number = map(int, input().split(" "))
 last_basket = [i for i in range(1, basket_number+1) ]
 
